@@ -27,6 +27,11 @@ This task introduces the fundamental concepts of RISC-V Instruction Set Architec
 #### 4. Memory Architecture Analysis (main function)
 ![Memory Mapping Details](images/vsd4.png)
 
+## Task 2: Performing SPIKE Simulation and Debugging the C code with Interactive Debugging Mode using Spike
+
+Spike is a free, open-source C++ simulator for the RISC-V ISA that models a RISC-V core and cache system. It can be used to run programs and a Linux kernel, and can be a starting point for running software on a RISC-V target.
+
+![RISC-V GNU Toolchain Setup](images/vsd1.png)
 
 
 
