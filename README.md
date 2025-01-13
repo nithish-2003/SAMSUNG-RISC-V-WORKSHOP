@@ -31,7 +31,7 @@ This task introduces the fundamental concepts of RISC-V Instruction Set Architec
 
 Spike is a free, open-source C++ simulator for the RISC-V ISA that models a RISC-V core and cache system. It can be used to run programs and a Linux kernel, and can be a starting point for running software on a RISC-V target.
 
-![RISC-V GNU Toolchain Setup](images/vsd1.png)
+![RISC-V spike](images/vsd5.png)
 
 
 
