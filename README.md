@@ -5,7 +5,7 @@ Welcome to the Samsung Semiconductor RISC-V Workshop documentation! This worksho
 ## Table of Contents
 - [Task 1: RISC-V ISA and GNU Toolchain](#task-1-risc-v-isa-and-gnu-toolchain)
 - [Task 2: Samsung RISC-V Processor Architecture Analysis](#task-2-samsung-risc-v-processor-architecture-analysis)
-
+- [Task 3: RISC-V Instruction Analysis](#task-3-risc-v-instruction-analysis)
 
 ## Task 1: RISC-V ISA and GNU Toolchain
 
@@ -35,6 +35,7 @@ Spike is a free, open-source C++ simulator for the RISC-V ISA that models a RISC
 
 ![RISC-V spike](images/vsd5.png)
 
+## Task 2: RISC-V Instruction Analysis
 
 
 ## License
