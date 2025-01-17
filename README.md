@@ -61,7 +61,7 @@ Store and Branch type instructions (SW, BEQ, BNE)
 ![U-Type Instructions](images/j_type_instructions.png)
 Upper immediate instructions (LUI, AUIPC)
 
-### 7. Instruction Summary
+### 6. Instruction Summary
 ![Instruction Summary](images/instruction_summary.png)
 Complete instruction set summary and verification
 
