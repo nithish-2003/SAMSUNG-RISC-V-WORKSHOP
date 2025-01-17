@@ -46,24 +46,20 @@ Spike is a free, open-source C++ simulator for the RISC-V ISA that models a RISC
 Initial objdump output showing basic instructions
 
 ### 2. R-Type Instructions
-![R-Type Instructions](images/r_type_instructions.png)
+![R-Type Instructions](images/i_type_instructions.png)
 Register-type instructions (ADD, SUB, SLL, SRL, OR, AND)
 
 ### 3. I-Type Instructions
-![I-Type Instructions](images/i_type_instructions.png)
+![I-Type Instructions](images/sb_type_instructions.png)
 Immediate-type instructions (ADDI, LW, JALR)
 
 ### 4. S-Type and B-Type Instructions
-![SB-Type Instructions](images/sb_type_instructions.png)
+![SB-Type Instructions](images/u_type_instructions.png)
 Store and Branch type instructions (SW, BEQ, BNE)
 
-### 5. U-Type Instructions
-![U-Type Instructions](images/u_type_instructions.png)
+### 5. U and J -Type Instructions
+![U-Type Instructions](images/j_type_instructions.png)
 Upper immediate instructions (LUI, AUIPC)
-
-### 6. J-Type Instructions
-![J-Type Instructions](images/j_type_instructions.png)
-Jump instructions (JAL)
 
 ### 7. Instruction Summary
 ![Instruction Summary](images/instruction_summary.png)
