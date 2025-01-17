@@ -35,7 +35,7 @@ Spike is a free, open-source C++ simulator for the RISC-V ISA that models a RISC
 
 ![RISC-V spike](images/vsd5.png)
 
-## Task 2: RISC-V Instruction Analysis
+## Task 3: RISC-V Instruction Analysis
 
 
 ## License
